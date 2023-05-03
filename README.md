@@ -1,4 +1,4 @@
-![QA present_logo](https://itstan.ru/wp-content/uploads/2021/12/image1-1.png)
+![QA present_logo](https://github.com/AlexanderKanoda/alexanderkanoda/blob/main/assets/image1-1.png)
 # <center> Hi :raised_hand:, I'm Alexander Kanoda :man_technologist:
 ## **About me:**
 >### **I'm QA Engineer with proficiency in functional testing (manual) such a web testing. Interesting in jobs with a creative team which going to create something new and great while working in a comfortable team-oriented environment.**
