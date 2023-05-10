@@ -47,9 +47,9 @@ ___
 
 [![Linkedin_logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-kanoda/)
 [![Telegram_logo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sarmatovich)
-[![Email_logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akanoda@gmail.com) 
+[![Email_logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/akanoda@gmail.com) 
 [![Skype_logo](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](live:ad9ab9e3de5906b4)
-[![Viber_logo](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](<a href="viber://chat?number=%2B375293502857">)
+[![Viber_logo](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+375293502857)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderKanoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
