@@ -24,7 +24,6 @@ _____
  * [x] *Teamplayer* 
  * [x] *Quick learner*
  * [x] *Responsibility*
- * [x] *Quick learner*
  * [x] *Flexible & Self-organized* 
  * [x] *Self-motivated*
   ___
