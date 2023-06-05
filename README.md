@@ -5,7 +5,17 @@
 >>### **<center>Motto: "Zero tolerance to bugs"**</center>
 _____
 ### **Tools:** 
-<h2 align="center">![DevTools](https://img.shields.io/badge/-DevTools-green)![Terminal](https://img.shields.io/badge/-Terminal-blueviolet)![Git](https://img.shields.io/badge/-Git-green)![GitHub](https://img.shields.io/badge/-GitHub-blueviolet)![Postman](https://img.shields.io/badge/-Postman-green)![JMeter](https://img.shields.io/badge/-JMeter-blueviolet)![VSCode](https://img.shields.io/badge/-VSCode-green)![TestRail](https://img.shields.io/badge/-TestRail-blueviolet)![YouTrack](https://img.shields.io/badge/-YouTrack-green)![Jira](https://img.shields.io/badge/-Jira-blueviolet)![Trello](https://img.shields.io/badge/-Trello-green)</h2>
+![DevTools](https://img.shields.io/badge/-DevTools-green)
+![Terminal](https://img.shields.io/badge/-Terminal-blueviolet)
+![Git](https://img.shields.io/badge/-Git-green)
+![GitHub](https://img.shields.io/badge/-GitHub-blueviolet)
+![Postman](https://img.shields.io/badge/-Postman-green)
+![JMeter](https://img.shields.io/badge/-JMeter-blueviolet)
+![VSCode](https://img.shields.io/badge/-VSCode-green)
+![TestRail](https://img.shields.io/badge/-TestRail-blueviolet)
+![YouTrack](https://img.shields.io/badge/-YouTrack-green)
+![Jira](https://img.shields.io/badge/-Jira-blueviolet)
+![Trello](https://img.shields.io/badge/-Trello-green)
 
 ---
 
