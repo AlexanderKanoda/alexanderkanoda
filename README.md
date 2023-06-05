@@ -6,7 +6,6 @@
 _____
 ### **Tools:** 
 # <h2 align="center">
-  
 ![DevTools](https://img.shields.io/badge/-DevTools-green)
 ![Terminal](https://img.shields.io/badge/-Terminal-blueviolet)
 ![Git](https://img.shields.io/badge/-Git-green)
@@ -18,7 +17,6 @@ _____
 ![YouTrack](https://img.shields.io/badge/-YouTrack-green)
 ![Jira](https://img.shields.io/badge/-Jira-blueviolet)
 ![Trello](https://img.shields.io/badge/-Trello-green)
-  
 </h2>
 ---
 
