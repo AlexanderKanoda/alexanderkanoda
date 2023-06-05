@@ -5,6 +5,7 @@
 >>### **<center>Motto: "Zero tolerance to bugs"**</center>
 _____
 <h2 align="center">
+  
 ### **Tools:** 
 ![DevTools](https://img.shields.io/badge/-DevTools-green)
 ![Terminal](https://img.shields.io/badge/-Terminal-blueviolet)
@@ -17,6 +18,7 @@ _____
 ![YouTrack](https://img.shields.io/badge/-YouTrack-green)
 ![Jira](https://img.shields.io/badge/-Jira-blueviolet)
 ![Trello](https://img.shields.io/badge/-Trello-green)
+  
 </h2>
 ---
 
