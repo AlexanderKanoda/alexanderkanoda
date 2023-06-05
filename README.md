@@ -4,8 +4,7 @@
 >### **I'm QA Engineer with proficiency in functional testing (manual) such a web testing. Interesting in jobs with a creative team which going to create something new and great while working in a comfortable team-oriented environment.**
 >>### **<center>Motto: "Zero tolerance to bugs"**</center>
 _____
-<h2 align="center">
-  
+
 ### **Tools:** 
 ![DevTools](https://img.shields.io/badge/-DevTools-green)
 ![Terminal](https://img.shields.io/badge/-Terminal-blueviolet)
@@ -18,8 +17,6 @@ _____
 ![YouTrack](https://img.shields.io/badge/-YouTrack-green)
 ![Jira](https://img.shields.io/badge/-Jira-blueviolet)
 ![Trello](https://img.shields.io/badge/-Trello-green)
-  
-</h2>
 ---
 
 ### **Soft skills:**
